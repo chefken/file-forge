@@ -1,4 +1,4 @@
-# converto_app
+# converto
 
 A new Flutter project.
 
